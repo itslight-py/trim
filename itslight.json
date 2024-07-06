@@ -1,0 +1,8 @@
+{
+  "name": "trim",
+  "description": "Trims LLM instance messages.",
+  "version": "0.1",
+  "dependencies": [
+    "tiktoken"
+  ]
+}
